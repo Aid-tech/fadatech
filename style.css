@@ -1,0 +1,22 @@
+
+#accueil{
+    background: url("img/reseau.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#accueil_block{
+    background: rgba(73, 72, 72, 0.349);
+}
+
+#explorer_block2 img, #creer_block2 img, #partager_block2 img{
+    height: 250px;
+}
+
+
+
+#partager_back{
+    background: url("img/partager.png");
+    background-repeat: no-repeat;
+    background-size: 424px 290px;
+}
